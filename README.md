@@ -1,3 +1,6 @@
+# Helios
+Sistema de votação online, garantindo privacidade e não relacionamento entre votos através de criptografia homomórfica
+
 # Guia de instalação e configuração do Helios
 
 Neste tutorial são descritos os principais passos para instalação de um servidor para disponibilização do Helios.
