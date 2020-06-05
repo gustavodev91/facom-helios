@@ -1,5 +1,6 @@
 # Helios
-Sistema de votação online, garantindo privacidade e não relacionamento entre votos através de criptografia homomórfica
+Sistema de votação online para a Faculdade de Computação da Universidade Federal de Uberlândia, 
+garantindo privacidade e não relacionamento entre votos, através de criptografia homomórfica.
 
 # Guia de instalação e configuração do Helios
 
